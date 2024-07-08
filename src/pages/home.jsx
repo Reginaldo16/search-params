@@ -5,7 +5,11 @@ export const Home=()=>{
     return (
         <>
         <Header/>
-       <h1>Home</h1>
+     <main>
+        <div className="w-full bg-slate-300">
+                home
+        </div>
+     </main>
   </>
     )
 }
